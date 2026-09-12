@@ -23,7 +23,7 @@ h1{
   font-size: 34px;
   font-weight: 500;
   margin-bottom: 25px;
-  font-variant-ligatures: none;
+  letter-spacing: 0.5px;
 }
 
 .image-credit{
