@@ -90,3 +90,29 @@ nav a {
   opacity: 0.7;
   margin-top: 10px;
 }
+.interior .interior-nav {
+  display: block;
+  max-width: 620px;
+  margin: 0 auto 60px;
+  text-align: left;
+}
+
+.interior .home-link {
+  display: block;
+  font-family: "Averia Serif Libre", serif;
+  font-size: 21px;
+  font-weight: 400;
+  margin-bottom: 8px;
+}
+
+.interior .interior-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 18px;
+}
+
+.interior .interior-links a {
+  font-family: "Ysabeau", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
