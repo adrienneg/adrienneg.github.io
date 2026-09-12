@@ -43,7 +43,7 @@ nav{
 
 nav a{
   display: block;
-  margin: 21px 0;
-  font-weight: 400;
-  margin: 10px 0;
+  font-size: 22px;
+  font-weight: 500;
+  margin: 9px 0;
 }
