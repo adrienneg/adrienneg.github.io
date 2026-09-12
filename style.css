@@ -11,3 +11,8 @@ body{
 a{
   color: #0000ee;
 }
+
+h1{
+  font-size: 24px;
+  font-weight: normal;
+}
