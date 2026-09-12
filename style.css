@@ -100,9 +100,9 @@ nav a {
 .interior .home-link {
   display: block;
   font-family: "Averia Serif Libre", serif;
-  font-size: 21px;
+  font-size: 23px;
   font-weight: 400;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
 }
 
 .interior .interior-links {
@@ -113,6 +113,6 @@ nav a {
 
 .interior .interior-links a {
   font-family: "Ysabeau", sans-serif;
-  font-size: 15px;
+  font-size: 17px;
   font-weight: 400;
 }
