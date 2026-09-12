@@ -1,3 +1,11 @@
+
+@media (max-width: 500px) {
+  body:not(.interior) nav {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+}
+
 body{
   max-width: 750px;
   margin: 90px auto 60px;
