@@ -65,10 +65,14 @@ nav a {
   margin-top: 70px;
 }
 
+.interior h1 {
+  font-family: "Ysabeau", sans-serif;
+  font-weight: 500;
+}
 .interior h2{
-  font-family: "Averia Serif Libre", serif;
+  font-family: "Ysabeau", sans-serif;
   font-size: 23px;
-  font-weight: 400;
+  font-weight: 500;
   line-height: 1.25;
   margin-bottom: 12px;
 }
